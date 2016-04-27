@@ -1,0 +1,7 @@
+node_modules
+.git
+public/bundle.js
+.idea
+.DS_Store
+.eslintcache
+.nyc_output
